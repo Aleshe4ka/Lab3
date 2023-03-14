@@ -15,10 +15,16 @@
     <string name="first">first</string>
     <string name="second">second</string>
     <string name="third">third</string>
-    <string name="one">первый</string>
-    <string name="two">второй</string>
-    <string name="three">третий</string>
     <string name="menu">меню</string>
     <string name="MyComposeApp">MyComposeApp</string>
+    <string name="android">android</string>
+    <string name="kotlin"> Kotlin </string>
+    <string name="swift"> Swift </string>
+    <string name="ios"> IOS </string>
+    <string name="one"> Усовершенствованная архитекрура Android </string>
+    <string name="two"> Изучение Cotlin </string>
+    <string name="three">Grid </string>
+    <string name="book"> Книги </string>
+    <string name="grid_icon"> Икона </string>
 
 </resources>
