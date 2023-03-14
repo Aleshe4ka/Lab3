@@ -15,5 +15,8 @@
     <string name="first">first</string>
     <string name="second">second</string>
     <string name="third">third</string>
+    <string name="one">первый</string>
+    <string name="two">второй</string>
+    <string name="three">третий</string>
 
 </resources>
